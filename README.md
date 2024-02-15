@@ -19,7 +19,8 @@ Introduction: ..................................................................
 8.Exit the game: ..................................................................................................................................... 11
 
 Conclusion: .................................................................................................................................................. 
-1.1 Introduction:
+
+Introduction:
 This document is based on the overall testing of my codes which will provide the detailed walkthrough
 the java classes, loops, codes, methods, and overall output of this application as a test. I will be testing
 overall game including the main menu, start, hint, replay, win or lose, demonstration mode, wrong user
